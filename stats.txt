@@ -1,0 +1,77 @@
+Bayonetta,81,1.76,0.945,1.77,https://www.ssbwiki.com/images/thumb/7/7c/Bayonetta_SSBU.png/200px-Bayonetta_SSBU.png
+Bowser,135,1.971,0.901,1.77,https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/200px-Bowser_SSBU.png
+Bowser Jr,108,1.566,0.924,1.65,https://www.ssbwiki.com/images/thumb/2/2b/Bowser_Jr._SSBU.png/200px-Bowser_Jr._SSBU.png
+Captain Falcon,104,2.552,0.987,1.865,https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/200px-Captain_Falcon_SSBU.png
+Charizard,116,2.2,1.187,1.52,https://www.ssbwiki.com/images/thumb/2/21/Charizard_SSBU.png/200px-Charizard_SSBU.png
+Chrom,95,2.145,1.208,1.8,https://www.ssbwiki.com/images/thumb/5/57/Chrom_SSBU.png/170px-Chrom_SSBU.png
+Cloud,100,2.167,1.155,1.68,https://www.ssbwiki.com/images/thumb/b/b3/Cloud_SSBU.png/200px-Cloud_SSBU.png
+Corrin,98,1.595,1.208,1.65,https://www.ssbwiki.com/images/thumb/c/c4/Corrin_SSBU.png/200px-Corrin_SSBU.png
+Daisy,89,1.595,0.924,1.19,https://www.ssbwiki.com/images/thumb/2/21/Daisy_SSBU.png/200px-Daisy_SSBU.png
+Dark Pit,96,1.828,1.259,1.48,https://www.ssbwiki.com/images/thumb/0/09/Dark_Pit_SSBU.png/190px-Dark_Pit_SSBU.png
+Dark Samus,108,1.654,1.115,1.33,https://www.ssbwiki.com/images/thumb/a/a6/Dark_Samus_SSBU.png/200px-Dark_Samus_SSBU.png
+Diddy Kong,90,2.006,1.313,1.75,https://www.ssbwiki.com/images/thumb/a/a7/Diddy_Kong_SSBU.png/193px-Diddy_Kong_SSBU.png
+Donkey Kong,127,1.873,1.365,1.63,https://www.ssbwiki.com/images/thumb/c/c9/Donkey_Kong_SSBU.png/200px-Donkey_Kong_SSBU.png
+Dr. Mario,98,1.397792,0.917301,1.5,https://www.ssbwiki.com/images/thumb/3/3f/Dr._Mario_SSBU.png/200px-Dr._Mario_SSBU.png
+Duck Hunt,86,1.793,1.213,1.65,https://www.ssbwiki.com/images/thumb/d/d8/Duck_Hunt_SSBU.png/200px-Duck_Hunt_SSBU.png
+Falco,82,1.619,1.344,1.8,https://www.ssbwiki.com/images/thumb/8/80/Falco_SSBU.png/200px-Falco_SSBU.png
+Fox,77,2.402,1.523,2.1,https://www.ssbwiki.com/images/thumb/2/2f/Fox_SSBU.png/200px-Fox_SSBU.png
+Ganondorf,118,1.34,0.767,1.65,https://www.ssbwiki.com/images/thumb/9/91/Ganondorf_SSBU.png/198px-Ganondorf_SSBU.png
+Greninja,88,2.288,1.502,1.85,https://www.ssbwiki.com/images/thumb/d/da/Greninja_SSBU.png/200px-Greninja_SSBU.png
+Ice Climbers,92,1.53,1.008,1.3,https://www.ssbwiki.com/images/thumb/1/12/Ice_Climbers_SSBU.png/200px-Ice_Climbers_SSBU.png
+Ike,107,1.507,0.912,1.65,https://www.ssbwiki.com/images/thumb/8/86/Ike_SSBU.png/200px-Ike_SSBU.png
+Incineroar,116,1.18,0.62,1.76,https://www.ssbwiki.com/images/thumb/c/c4/Incineroar_SSBU.png/200px-Incineroar_SSBU.png
+Inkling,94,1.925,1.134,1.58,https://www.ssbwiki.com/images/thumb/2/2e/Inkling_SSBU.png/200px-Inkling_SSBU.png
+Isabelle,88,1.48,1.14,1.3,https://www.ssbwiki.com/images/thumb/2/2b/Isabelle_SSBU.png/200px-Isabelle_SSBU.png
+Ivysaur,96,1.595,1.103,1.38,https://www.ssbwiki.com/images/thumb/5/52/Ivysaur_SSBU.png/200px-Ivysaur_SSBU.png
+Jigglypuff,68,1.271,0.735,0.98,https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/200px-Jigglypuff_SSBU.png
+Ken,103,1.76,0.825,1.6,https://www.ssbwiki.com/images/thumb/f/f6/Ken_SSBU.png/200px-Ken_SSBU.png
+King Dedede,127,1.496,1.029,1.95,https://www.ssbwiki.com/images/thumb/f/f5/King_Dedede_SSBU.png/200px-King_Dedede_SSBU.png
+King K. Rool,133,1.485,0.903,1.7,https://www.ssbwiki.com/images/thumb/b/b6/King_K._Rool_SSBU.png/200px-King_K._Rool_SSBU.png
+Kirby,79,1.727,0.977,1.23,https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/200px-Kirby_SSBU.png
+Link,104,1.534,1.247,1.6,https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/200px-Link_SSBU.png
+Little Mac,87,2.464,1.386,1.95,https://www.ssbwiki.com/images/thumb/5/53/Little_Mac_SSBU.png/200px-Little_Mac_SSBU.png
+Lucario,92,1.705,1.103,1.68,https://www.ssbwiki.com/images/thumb/0/08/Lucario_SSBU.png/200px-Lucario_SSBU.png
+Lucas,94,1.65,0.893,1.37,https://www.ssbwiki.com/images/thumb/8/81/Lucas_SSBU.png/200px-Lucas_SSBU.png
+Lucina,90,1.964,1.575,1.58,https://www.ssbwiki.com/images/thumb/d/dc/Lucina_SSBU.png/200px-Lucina_SSBU.png
+Luigi,97,1.65,1.134,1.32,https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/182px-Luigi_SSBU.png
+Mario,98,1.76,1.155,1.5,https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/200px-Mario_SSBU.png
+Marth,90,1.964,1.575,1.58,https://www.ssbwiki.com/images/thumb/e/e9/Marth_SSBU.png/200px-Marth_SSBU.png
+Mega Man,102,1.602,1.132,1.8,https://www.ssbwiki.com/images/thumb/4/46/Mega_Man_SSBU.png/200px-Mega_Man_SSBU.png
+Meta Knight,80,2.09,1.239,1.66,https://www.ssbwiki.com/images/thumb/0/00/Meta_Knight_SSBU.png/200px-Meta_Knight_SSBU.png
+Mewtwo,77,1.26,1.26,1.55,https://www.ssbwiki.com/images/thumb/d/de/Mewtwo_SSBU.png/198px-Mewtwo_SSBU.png
+Mii Brawler,94,1.92,1.26,1.92,https://www.ssbwiki.com/images/thumb/e/e4/Mii_Brawler_SSBU.png/200px-Mii_Brawler_SSBU.png
+Mii Gunner,104,1.37,1,1.45,https://www.ssbwiki.com/images/thumb/e/e5/Mii_Gunner_SSBU.png/200px-Mii_Gunner_SSBU.png
+Mii Swordfighter,100,1.58,1.07,1.55,https://www.ssbwiki.com/images/thumb/f/fa/Mii_Swordfighter_SSBU.png/200px-Mii_Swordfighter_SSBU.png
+Mr. Game & Watch,75,1.679,1.18,1.24,https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/200px-Mr._Game_%26_Watch_SSBU.png
+Ness,94,1.609,0.907,1.31,https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/200px-Ness_SSBU.png
+Olimar,79,1.617,0.945,1.35,https://www.ssbwiki.com/images/thumb/b/b3/Olimar_SSBU.png/200px-Olimar_SSBU.png
+PAC-MAN,95,1.672,1.097,1.35,https://www.ssbwiki.com/images/thumb/0/03/Pac-Man_SSBU.png/200px-Pac-Man_SSBU.png
+Palutena,91,2.077,1.271,1.55,https://www.ssbwiki.com/images/thumb/6/6b/Palutena_SSBU.png/190px-Palutena_SSBU.png
+Peach,89,1.595,0.924,1.19,https://www.ssbwiki.com/images/thumb/7/74/Peach_SSBU.png/177px-Peach_SSBU.png
+Pichu,62,1.892,1.302,1.9,https://www.ssbwiki.com/images/thumb/c/c1/Pichu_SSBU.png/200px-Pichu_SSBU.png
+Pikachu,79,2.039,1.302,1.55,https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/200px-Pikachu_SSBU.png
+Piranha Plant,112,1.72,0.76,1.95,https://www.ssbwiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/200px-Piranha_Plant_SSBU.png
+Pit,96,1.828,1.259,1.48,https://www.ssbwiki.com/images/thumb/3/38/Pit_SSBU.png/200px-Pit_SSBU.png
+R.O.B.,106,1.725,1.178,1.6,https://www.ssbwiki.com/images/thumb/3/38/R.O.B._%28JPN%29_SSBU.png/200px-R.O.B._%28JPN%29_SSBU.png
+Richter,107,1.52,0.76,1.85,https://www.ssbwiki.com/images/thumb/c/c2/Richter_SSBU.png/200px-Richter_SSBU.png
+Ridley,107,2.2,1.1,1.78,https://www.ssbwiki.com/images/thumb/2/27/Ridley_SSBU.png/200px-Ridley_SSBU.png
+Robin,95,1.265,0.936,1.5,https://www.ssbwiki.com/images/thumb/8/82/Robin_SSBU.png/200px-Robin_SSBU.png
+Rosalina,82,1.795,1.138,1.2,https://www.ssbwiki.com/images/thumb/1/16/Rosalina_%26_Luma_SSBU.png/200px-Rosalina_%26_Luma_SSBU.png
+Roy,95,2.145,1.208,1.8,https://www.ssbwiki.com/images/thumb/9/9d/Roy_SSBU.png/200px-Roy_SSBU.png
+Ryu,103,1.6,0.75,1.6,https://www.ssbwiki.com/images/thumb/6/61/Ryu_SSBU.png/200px-Ryu_SSBU.png
+Samus,108,1.654,1.115,1.33,https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/200px-Samus_SSBU.png
+Sheik,78,2.42,1.47,1.75,https://www.ssbwiki.com/images/thumb/0/00/Sheik_SSBU.png/200px-Sheik_SSBU.png
+Shulk,97,1.672,1.155,1.58,https://www.ssbwiki.com/images/thumb/0/0f/Shulk_SSBU.png/200px-Shulk_SSBU.png
+Simon,107,1.52,0.76,1.85,https://www.ssbwiki.com/images/thumb/9/95/Simon_SSBU.png/200px-Simon_SSBU.png
+Snake,106,1.595,0.882,1.73,https://www.ssbwiki.com/images/thumb/0/02/Snake_SSBU.png/164px-Snake_SSBU.png
+Sonic,86,3.85,1.444,1.65,https://www.ssbwiki.com/images/thumb/b/ba/Sonic_SSBU.png/200px-Sonic_SSBU.png
+Squirtle,75,1.76,1.281,1.35,https://www.ssbwiki.com/images/thumb/7/79/Squirtle_SSBU.png/177px-Squirtle_SSBU.png
+Toon Link,91,1.906,1.288,1.38,https://www.ssbwiki.com/images/thumb/5/56/Toon_Link_SSBU.png/190px-Toon_Link_SSBU.png
+Villager,92,1.397,1.092,1.32,https://www.ssbwiki.com/images/thumb/a/ac/Villager_SSBU.png/200px-Villager_SSBU.png
+Wario,107,1.65,0.889,1.61,https://www.ssbwiki.com/images/thumb/0/04/Wario_SSBU.png/200px-Wario_SSBU.png
+Wii Fit Trainer,96,1.224,1.224,1.3,https://www.ssbwiki.com/images/thumb/f/ff/Wii_Fit_Trainer_SSBU.png/200px-Wii_Fit_Trainer_SSBU.png
+Wolf,92,1.54,1.208,1.8,https://www.ssbwiki.com/images/thumb/8/8a/Wolf_SSBU.png/200px-Wolf_SSBU.png
+Yoshi,104,2.046,1.208,1.29,https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/200px-Yoshi_SSBU.png
+Young Link,88,1.749,1.26,1.8,https://www.ssbwiki.com/images/thumb/8/8a/Young_Link_SSBU.png/200px-Young_Link_SSBU.png
+Zelda,85,1.43,0.914,1.35,https://www.ssbwiki.com/images/thumb/c/c8/Zelda_SSBU.png/200px-Zelda_SSBU.png
+Zero Suit Samus,80,2.31,1.47,1.7,https://www.ssbwiki.com/images/thumb/f/f0/Zero_Suit_Samus_SSBU.png/200px-Zero_Suit_Samus_SSBU.png

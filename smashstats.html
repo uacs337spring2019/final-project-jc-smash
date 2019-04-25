@@ -1,0 +1,54 @@
+<!--
+Names: Cade Marks, Jonah Little
+Course: CSc 337
+Description: Provides the contents for the Smash Stats webpage. First displays boxes with each
+			 character's name and image, then, when clicked displays that character's image,
+			 stats, and comments written by the user, as well as a comment box for adding
+			 additional comments to the character page.
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Smash Ultimate Stats</title>
+		<link rel="stylesheet" type="text/css" href="smashstats.css" />
+		<script type="text/javascript" src="smashstats.js"></script>
+		<link href="https://i.pinimg.com/474x/b7/d8/51/b7d851fcc4c59aac1011c7cecb2ea6b7--super-\
+					smash-bros-nintendo.jpg" type="image/jpg" 
+		rel="shortcut icon"/>
+	</head>
+	<body>
+		<div id="banner_image">
+		</div>
+		<button id="home">Home</button>
+		<div id="all_content">
+			<div id="header">
+				<h1>Super Smash Bros Ultimate Characters</h1>
+			</div>
+			<div id="all_characters">
+			</div>
+		</div>
+		<div id="single_character">
+			<h1 id="name"></h1>
+			<div id="char_area">
+				<div id="char_box">
+					<img id="charImage">
+					<div id="statblock">
+						<p>Weight: <span id="weight"></span></p>
+						<p>Running Speed: <span id="runSpeed"></span></p>
+						<p>Walking Speed: <span id="walkSpeed"></span></p>
+						<p>Falling Speed: <span id="fallSpeed"></span></p>
+					</div>
+				</div>
+			</div>
+			<h2>Comments</h2>
+			<div id="messageArea"></div>
+			<div id="sendingArea">
+				<h2>Leave a comment!</h2>
+				<p id="confirmation"></p>
+				<textarea id="commentBox"></textarea>
+				<br>
+				<button id="button">Send</button>
+			</div>
+		</div>
+	</body>
