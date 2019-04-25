@@ -70,7 +70,7 @@ Description: Creates the web service for smashstats.html. Handles GET requests f
 		}
 	});
 
-	app.listen("process.env.port");
+	app.listen("process.env.PORT");
 
 	/**
 	Retrieves the contents of a file.
