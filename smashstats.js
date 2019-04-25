@@ -17,7 +17,7 @@ clicked, displays that character's stats. */
         let singlechar = document.getElementById("single_character");
         singlechar.style.display = "none";
         allchars.style.display = "";
-        let url = "http://smash-stats.herokuapp.com:process.env.PORT/?mode=all";
+        let url = "http://smash-stats.herokuapp.com/?mode=all";
         fetch(url)
             .then(checkStatus)
             .then(function(responseText) {
@@ -55,7 +55,7 @@ clicked, displays that character's stats. */
         let singlechar = document.getElementById("single_character");
         singlechar.style.display = "";
         allchars.style.display = "none";
-        let url = "http://smash-stats.herokuapp.com:process.env.PORT/?mode=single&name=" + this.value;
+        let url = "http://smash-stats.herokuapp.com/?mode=single&name=" + this.value;
         fetch(url)
             .then(checkStatus)
             .then(function(responseText) {
@@ -73,7 +73,7 @@ clicked, displays that character's stats. */
 
     /** Loads all comments on server for the given character. **/
     function loadComments(character) {
-        let url = "http://smash-stats.herokuapp.com:process.env.PORT/?mode=comments&name=" + character;
+        let url = "http://smash-stats.herokuapp.com/?mode=comments&name=" + character;
         fetch(url)
             .then(checkStatus)
             .then(function(responseText) {
@@ -113,7 +113,7 @@ clicked, displays that character's stats. */
             },
             body : JSON.stringify(message)
         };
-        fetch("http://smash-stats.herokuapp.com:process.env.PORT/?mode=comments", sending)
+        fetch("http://smash-stats.herokuapp.com/?mode=comments", sending)
             .then(checkStatus)
             .then(function(responseText) {
                 let json = JSON.parse(responseText);
