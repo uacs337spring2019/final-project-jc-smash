@@ -1,0 +1,7 @@
+{
+	"name": "smashstats_service.js",
+	"description": "A Node.js app for Smash stats.",
+	"repository": "https://github.com/uacs337spring2019/final-project-jc-smash",
+	"logo": "https://i.pinimg.com/474x/b7/d8/51/b7d851fcc4c59aac1011c7cecb2ea6b7--super-smash-bros-nintendo.jpg",
+	"keywords": ["node", "express"]
+}
